@@ -1,6 +1,7 @@
 
 import java.util.Scanner;
 
+//proyecto de prueba Ingenieria de Software 1
 
 /**
  *
