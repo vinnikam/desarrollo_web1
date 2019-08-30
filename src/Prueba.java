@@ -13,5 +13,6 @@ public class Prueba {
         System.out.print("Digite :");
         String dato = sc.nextLine();
         System.out.println(" "+dato);
+        //Aqui estuvo Gerardo
     }
 }
