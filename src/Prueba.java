@@ -13,5 +13,11 @@ public class Prueba {
         System.out.print("Digite :");
         String dato = sc.nextLine();
         System.out.println(" "+dato);
+        
+        acm1();
+    }
+    
+    public static void acm1(){
+        System.out.println("pt");
     }
 }
