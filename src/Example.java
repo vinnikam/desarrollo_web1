@@ -9,5 +9,7 @@
  * @author Sala 1
  */
 public class Example {
-    
+        public Example(){
+	
+	}
 }
